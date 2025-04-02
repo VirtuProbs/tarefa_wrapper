@@ -9,8 +9,8 @@ public class Exercicio {
        int codigo = 10;
        System.out.println(codigo );
 
-       Integer codigo1 = 20;
-       System.out.println(codigo1);
+       Integer codigoWrapper = codigo;
+       System.out.println(codigoWrapper);
    }
 
 }
